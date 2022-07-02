@@ -1,0 +1,11 @@
+Проект Pakko от Анны Блок: https://github.com/annblok/Pakko
+
+html: https://github.com/annblok/Pakko/blob/main/index.html
+css: https://github.com/annblok/Pakko/blob/main/styles/style.css
+
+Видео с канала Анна Блок: https://www.youtube.com/watch?v=oxQpayexHnI
+Тут Анна Блок предлагает купить макет.
+
+Видео с канала Anna Blok — Frontend Tutorial: https://www.youtube.com/watch?v=163bKSjlvPI
+А тут есть ссылка на бесплатный макет
+Бесплатный макет на Figma: https://www.figma.com/file/f4Lu6ypvtf8JKHU899vjsF/Pakko-(Copy)?node-id=0%3A1
